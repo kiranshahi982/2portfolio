@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Typing Animation
     const typed = new Typed('.typing', {
-        strings: ['Full Stack Developer', 'Software Enginer', 'Tech Enthusiast'],
+        strings: ['Full Stack Developer', 'Software Engineer', 'Tech Enthusiast'],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
