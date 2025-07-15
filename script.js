@@ -352,7 +352,7 @@ document.addEventListener('DOMContentLoaded', function() {
 if (typeof Typed === 'undefined') {
     console.warn('Typed.js not loaded - using fallback typing animation');
     const typingElement = document.querySelector('.typing');
-    const strings = ['Full Stack Developer', 'Software Enginer', 'Tech Enthusiast'];
+    const strings = ['Full Stack Developer', 'Software Engineer', 'Tech Enthusiast'];
     let i = 0;
     let j = 0;
     let isDeleting = false;
